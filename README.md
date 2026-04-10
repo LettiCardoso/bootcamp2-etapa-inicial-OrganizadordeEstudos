@@ -28,21 +28,21 @@ O **FocusFlow** é uma ferramenta de gestão de foco baseada na técnica de micr
 🧪 Instruções para Rodar os Testes
 Para validar a lógica do sistema e garantir que tudo está funcionando:
 ### Execute: `py -m pytest` 
-![alt text](image-1.png)
+![alt text](ExemploDeUsoPyTest.png)
 ### **Caso não funcione,** 
 ### Execute`py -m pip install pytest`
 
 ### 🧹 Instruções para Rodar o Lint
 Para verificar a padronização e qualidade do código (análise estática):
 ###  Execute:`flake8 src/`
-![alt text](image-2.png)
+![alt text](ExemploDeUsoFlake8.png)
 ### **Caso não funcione,** 
 ### Execute`py -m pip install flake8`
 ## ⚙️ Como executar
 1. Clone o repositório, Abra o terminal ou prompt de comando e digite: ` git clone https://github.com/LettiCardoso/bootcamp-etapa-inicial-OrganizadordeEstudos.git`
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute o app utilizando o terminal: `python src/main.py`
-![alt text](image.png)
+![alt text](ExemploDeUsoExecuçao.png)
 
 
 ### 🚀 Versão Atual: 1.0.0 (Semantic Versioning)
