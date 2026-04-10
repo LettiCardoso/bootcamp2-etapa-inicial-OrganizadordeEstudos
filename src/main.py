@@ -3,7 +3,8 @@ from tkinter import messagebox
 from logic import SessaoDeEstudo
 
 class FocusFlowApp:
-    self.root = root
+    def __init__(self, root):
+        self.root = root
         self.root.title("FocusFlow - Organizador de Estudos v1.0.0")
         self.root.geometry("400x300")
         
