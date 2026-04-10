@@ -1,5 +1,5 @@
 # FocusFlow - Foco de Estudos 🎓
-![Python CI](https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos/actions/workflows/ci.yml/badge.svg)
+[![Python CI](https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos/actions/workflows/ci.yml/badge.svg)](https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos/actions/workflows/ci.yml)
 ## 🧠 Problema Real
 Muitos estudantes enfrentam a chamada "paralisia por análise" ou dificuldade severa em manter uma rotina. A falta de um ponto de partida claro e o sentimento de sobrecarga levam à procrastinação crônica, afetando o desempenho acadêmico e a saúde mental.
 
