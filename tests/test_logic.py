@@ -13,3 +13,14 @@ def test_invalid_task_name():
 def test_time_formatting():
     session = SessaoDeEstudo("Teste", 10)
     assert session.get_duracao_string(125) == "02:05"
+def test_tempo_zero_invalido():
+    with pytest.raises(ValueError):
+        SessaoDeEstudo("Teste", 0)
+
+def test_tempo_negativo_invalido():
+    with pytest.raises(ValueError):
+        SessaoDeEstudo("Teste", -5)
+
+def test_tarefa_vazia_invalida():
+    with pytest.raises(ValueError):
+        SessaoDeEstudo("", 25)
