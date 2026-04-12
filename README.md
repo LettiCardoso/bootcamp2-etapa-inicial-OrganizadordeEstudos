@@ -39,9 +39,9 @@ Para verificar a padronização e qualidade do código (análise estática):
 ### **Caso não funcione,** 
 ### Execute`py -m pip install flake8`
 ## ⚙️ Como executar
-1. Clone o repositório, Abra o terminal ou prompt de comando e digite: ` git clone https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos.git`
-1. Instale as dependências: `pip install -r requirements.txt`
-2. Execute o app utilizando o terminal: `python src/main.py`
+### 1. Clone o repositório, Abra o terminal ou prompt de comando e digite: ` git clone https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos.git`
+### 1. Instale as dependências: `py -m pip install -r requirements.txt`
+### 2. Execute o app utilizando o terminal: `py src/main.py`
 <img width="1901" height="934" alt="image" src="https://github.com/user-attachments/assets/edd604fa-c3cd-4052-b5ae-4e851e9421cf" /> <br>
 ### 📖 Como utilizar o FocusFlow (v1.0.0 - Versão Inicial)
 Nesta versão de lançamento, o foco foi a simplicidade extrema. O sistema foi projetado para seguir o fluxo "uma vez iniciado, foco total até o fim".
