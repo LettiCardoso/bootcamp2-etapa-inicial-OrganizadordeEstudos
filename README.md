@@ -39,16 +39,33 @@ Para verificar a padronização e qualidade do código (análise estática):
 ### **Caso não funcione,** 
 ### Execute`py -m pip install flake8`
 ## ⚙️ Como executar
-1. Clone o repositório, Abra o terminal ou prompt de comando e digite: ` git clone https://github.com/LettiCardoso/bootcamp-etapa-inicial-OrganizadordeEstudos.git`
+1. Clone o repositório, Abra o terminal ou prompt de comando e digite: ` git clone https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos.git`
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute o app utilizando o terminal: `python src/main.py`
 ![alt text](ExemploDeUsoExecuçao.png)
+
+### 📖 Como utilizar o FocusFlow (v1.0.0 - Versão Inicial)
+Nesta versão de lançamento, o foco foi a simplicidade extrema. O sistema foi projetado para seguir o fluxo "uma vez iniciado, foco total até o fim".
+
+1. Definindo a Tarefa
+No campo de entrada superior, escreva o nome da atividade que você vai realizar. Isso serve como um lembrete visual do seu compromisso atual.
+
+2. Ajuste de Tempo
+No campo de minutos, insira o tempo desejado para o seu bloco de concentração. O padrão sugerido pelo sistema é de 25 minutos.
+
+3. Início do Ciclo
+Clique no botão "Iniciar Foco".
+
+Importante: Nesta versão inicial, o cronômetro rodará ininterruptamente até chegar ao zero. É o modo "foco profundo", sem distrações e sem pausas intermediárias.
+
+4. Conclusão
+Ao final do tempo definido, o sistema emitirá um alerta visual informando que seu ciclo de estudos foi concluído com sucesso. Para iniciar uma nova sessão, basta fechar o alerta e configurar um novo tempo.
 
 
 ### 🚀 Versão Atual: 1.0.0 (Semantic Versioning)
 ### 👤 Autora: Letícia Cardoso
  
- 🔗 Link do Repositório Público `https://github.com/LettiCardoso/bootcamp-etapa-inicial-OrganizadordeEstudos.git`
+ 🔗 Link do Repositório Público `https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos.git`
 ## 🛠️ Estrutura do Projeto 
 ### bootcamp2-etapa-inicial-OrganizadordeEstudos/<br>
 
