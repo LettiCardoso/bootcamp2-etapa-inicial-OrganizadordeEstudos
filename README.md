@@ -72,8 +72,7 @@ Ao final do tempo definido, o sistema emitirá um alerta visual informando que s
 ├── **.github**/<br>
 │   └── **workflows**/<br>
 │      └── ci.yml &ensp; &ensp;&ensp;#Pipeline de CI (GitHub Actions)<br><br>
-── **Imagens**/<br>
-└── Exemplo de usos &ensp; &ensp;&ensp;<br><br>
+
 ├── **src**/<br>
 │   ├── _ _init_ _.py<br>
 │   ├── main.py  &ensp; &ensp;&ensp;# Interface GUI (Tkinter)<br>
@@ -81,7 +80,9 @@ Ao final do tempo definido, o sistema emitirá um alerta visual informando que s
 ├── **tests**/<br>
 │   └── test_logic.py&ensp; &ensp;&ensp; # Testes automatizados<br><br>├── .flake8 &ensp; &ensp;&ensp;# Configuração do Linter<br>
 ├── CHANGELOG.md &ensp; &ensp;&ensp;#Alterações<br>
-├── CONTRIBUITING.md &ensp; &ensp;&ensp;#Contribuição<br>
+├── CONTRIBUITING.md &ensp; &ensp;&ensp;#Contribuição<br><br>
+── **Imagens**/<br>
+└── Exemplo de usos &ensp; &ensp;&ensp;<br><br>
 ├── LICENSE &ensp; &ensp;&ensp;#Licensa<br>
 ├── README.md &ensp; &ensp;&ensp;# Documentação<br>
 └── VERSION &ensp; &ensp;&ensp;# Versão semântica (1.0.0)<br>
