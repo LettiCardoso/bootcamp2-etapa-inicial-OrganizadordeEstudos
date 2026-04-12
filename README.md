@@ -39,7 +39,7 @@ Para verificar a padronização e qualidade do código (análise estática):
 ### **Caso não funcione,** 
 ### Execute`py -m pip install flake8`
 ## ⚙️ Como executar
-1. Clone o repositório, Abra o terminal ou prompt de comando e digite: ` git clone https://github.com/LettiCardoso/bootcamp-etapa-inicial-OrganizadordeEstudos.git`
+1. Clone o repositório, Abra o terminal ou prompt de comando e digite: ` git clone https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos.git`
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute o app utilizando o terminal: `python src/main.py`
 ![alt text](ExemploDeUsoExecuçao.png)
@@ -48,7 +48,7 @@ Para verificar a padronização e qualidade do código (análise estática):
 ### 🚀 Versão Atual: 1.0.0 (Semantic Versioning)
 ### 👤 Autora: Letícia Cardoso
  
- 🔗 Link do Repositório Público `https://github.com/LettiCardoso/bootcamp-etapa-inicial-OrganizadordeEstudos.git`
+ 🔗 Link do Repositório Público `https://github.com/LettiCardoso/bootcamp2-etapa-inicial-OrganizadordeEstudos.git`
 ## 🛠️ Estrutura do Projeto 
 ### bootcamp2-etapa-inicial-OrganizadordeEstudos/<br>
 
