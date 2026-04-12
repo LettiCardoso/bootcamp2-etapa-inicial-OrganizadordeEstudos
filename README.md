@@ -28,7 +28,7 @@ O **FocusFlow** é uma ferramenta de gestão de foco baseada na técnica de micr
 🧪 Instruções para Rodar os Testes
 Para validar a lógica do sistema e garantir que tudo está funcionando:
 ### Execute: `py -m pytest` 
-![alt text](ExemplodeUsoPyTest.png)
+![alt text](ExemplodeUsoPytest.png)
 ### **Caso não funcione,** 
 ### Execute`py -m pip install pytest`
 
